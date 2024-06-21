@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Task Type -->
+    <TextView
+        android:id="@+id/taskTypeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Type" />
+
+    <!-- Task Name -->
+
+    <TextView
+        android:id="@+id/task_name_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Name" />
+
+    <!-- Task Status -->
+
+    <TextView
+        android:id="@+id/task_status_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Status" />
+
+    <ImageView
+        android:id="@+id/removeIcon"
+        android:layout_width="53dp"
+        android:layout_height="61dp"
+        android:layout_marginLeft="300dp"
+        android:clickable="true"
+        android:padding="8dp"
+        android:src="@drawable/garabge" />
+
+</LinearLayout>

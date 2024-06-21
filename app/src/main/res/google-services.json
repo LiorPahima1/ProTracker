@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377550039196",
+    "firebase_url": "https://protrackerapp-58ded-default-rtdb.firebaseio.com",
+    "project_id": "protrackerapp-58ded",
+    "storage_bucket": "protrackerapp-58ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377550039196:android:0c3a3f2574f4fbf4502559",
+        "android_client_info": {
+          "package_name": "com.example.protrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm99iE4Gf37AYd_yX463G171Bng7Hr2pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
